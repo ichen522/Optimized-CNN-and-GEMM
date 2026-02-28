@@ -1,0 +1,19 @@
+bazel-Bazel_with_GTest
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-testlogs
+bazel-template
+bazel-*
+
+Module.bazel.lock
+
+*.md2
+**.DS_Store
+
+# CIFAR dataset files
+cifar-10-batches-py/
+cifar-100-python/
+data/
+*.tar.gz
+*.gz
